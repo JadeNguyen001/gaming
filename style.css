@@ -1,0 +1,61 @@
+/*  DAEDCE
+    B6DEC5
+    E6E6E6
+    DEDEDE
+    C9C4C3 */
+
+html {
+    background-color: #bebdbc;
+}
+
+.title {
+    color: #fefefe;
+    font-family: Lora;
+    font-size: 250%;
+    letter-spacing: .5vw;
+    text-align: center;
+}
+
+.table {
+    display: flex;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+}
+
+.tableTitle {
+    color: #fefefe;
+}
+
+table, th, td {
+    /* border: 1px solid #857b79; */
+    padding: .5vw 1vw;
+    font-family: poppins;
+    /* background-color: #857b79; */
+  }
+
+table {
+    align-items: center;
+    align-self: center;
+}
+
+td {
+    border: 1px solid #857b79;
+    /* text-align: center; */
+}
+
+/* img {
+    width: 50%;
+    height: 50%;
+} */
+
+.row1 {
+    background-color: #857b79;
+    font-size: 135%;
+}
+
+.col1 {
+    text-align: center;
+}
