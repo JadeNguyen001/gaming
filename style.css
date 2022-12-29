@@ -5,11 +5,11 @@
     C9C4C3 */
 
 html {
-    background-color: #bebdbc;
+    background-color: #cad2c5;
 }
 
 .title {
-    color: #fefefe;
+    color: #2f3e46;
     font-family: Lora;
     font-size: 250%;
     letter-spacing: .5vw;
@@ -26,7 +26,7 @@ html {
 }
 
 .tableTitle {
-    color: #fefefe;
+    color: #EDF0EE;
 }
 
 table, th, td {
@@ -43,8 +43,9 @@ table {
 }
 
 td {
-    border: 1px solid #857b79;
+    border: 1px solid #354f52;
     font-size: 90%;
+    color: #2f3e46;
     /* text-align: center; */
 }
 
@@ -54,10 +55,19 @@ td {
 } */
 
 .row1 {
-    background-color: #857b79;
+    background-color: #354f52;
     font-size: 125%;
 }
 
 .col1 {
     text-align: center;
+}
+
+.weaponsPic {
+    width: 15%;
+    height: 15%;
+}
+
+.flex {
+    display: flex;
 }
