@@ -128,8 +128,16 @@ td {
     height: 15%;
 }
 
+.dionaPic {
+    width: 75%;
+}
+
 .flex {
     display: flex;
+}
+
+.center {
+    text-align: center;
 }
 
 
